@@ -1,0 +1,2 @@
+#!/bin/bash
+chown --no-derefrence vincent:staff _hello
