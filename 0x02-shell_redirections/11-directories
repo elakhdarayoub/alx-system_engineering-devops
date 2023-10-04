@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Rla | grep -e "dr..*" | wc -l
+ls -Rla | grep -e "dr*" | wc -l
