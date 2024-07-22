@@ -13,5 +13,3 @@ Usage: ./0-iamsomeonelese <user>
 
 100-fix_in_7_lines_or_less: Bash script that fixes a web server to run Nginx listening on port 8080 as the nginx user.
 7 lines long.
-#Author Jerome Udoh
-#Email:Jubass640@gmail.com
